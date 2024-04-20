@@ -1,0 +1,43 @@
+body {
+    font-family: sans-serif;
+}
+h1{
+    text-align: center;
+    box-shadow:10px 5px 5px 10px black;
+  padding: 10px;
+}
+img:hover{
+ width: 400px;
+ transition: 2s;
+ 
+ 
+}
+body{
+    background-color: rgb(0, 162, 255);
+}
+p:hover{
+    transition: 2s;
+    box-shadow: 5px 5px 5px 5px black;
+    font-size: 20px;
+    background-color: rgb(0, 255, 157);
+}
+.ct228{
+ background-color: black;
+}
+p{
+    margin-top : 30px;
+    margin-bottom:40px ;
+}
+
+img{
+    margin-top : 30px;
+    margin-bottom:20px ;
+    
+}
+
+h4:hover{
+    color: white;
+    transition: 3s;
+    font-size: 20px;
+     
+}
