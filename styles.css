@@ -27,12 +27,14 @@ p:hover{
 p{
     margin-top : 30px;
     margin-bottom:40px ;
+    text-align: center;
 }
 
 img{
     margin-top : 30px;
     margin-bottom:20px ;
-    
+    margin: auto;
+  display: block;
 }
 
 h4:hover{
